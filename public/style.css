@@ -1,0 +1,35 @@
+.card.mb-3{
+    width: 40%;
+    padding: 10px;
+    margin: auto;
+    background-color: #7286D3;
+}
+
+.card.mb-3 img{
+    border-radius: 40px;
+    
+}
+
+.card-title{
+    text-align: center;
+    background-color: #E5E0FF;
+    border-radius: 5px;
+}
+
+.card-text{
+    background-color: #E5E0FF;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+}
+
+.container{
+    background-color: #8EA7E9;
+    padding: 10px;
+    margin: auto;
+
+
+}
+
+
+
